@@ -1,6 +1,8 @@
 # cloudbox-autoscan-arm
 
-This is an arm compatible docker image from https://github.com/Cloudbox/autoscan
+This is an arm compatible docker image from https://github.com/Cloudbox/autoscan.
+
+Docker hub: https://hub.docker.com/repository/docker/kdckrs/autoscan
 
 ## Usage
 
